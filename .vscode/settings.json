@@ -26,11 +26,22 @@
    "editor.defaultFormatter": "HookyQR.beautify",
    "cSpell.words": [
       "bloggf",
+      "blogpost",
       "cloudinary",
+      "eventyret",
+      "formulahendry",
       "gunicorn",
       "herokuapp",
+      "hookyqr",
+      "keymap",
       "odvoalx",
+      "rudge",
+      "summernote",
+      "toolsai",
       "wsgi",
       "xeqpfvru"
-   ]
+   ],
+   "[python]": {
+      "editor.defaultFormatter": "ms-python.python"
+   }
 }
